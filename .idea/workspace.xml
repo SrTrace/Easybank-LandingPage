@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e84fed-9743-4513-9ad7-c91bf1166b69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/API/PostService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/AppRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/ClassCounter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/PostFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/PostForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/PostItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/PostList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/Loader/Loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/Loader/Loader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/MyModal/MyModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/MyModal/MyModal.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/Navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/button/MyButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/button/MyButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/input/MyInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/input/MyInput.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/pagination/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/UI/select/MySelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/Components/utils/pages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/hooks/useFetching.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/hooks/useObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/hooks/usePosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/pages/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/pages/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/pages/PostIdPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/pages/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-fund-course/src/styles/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gmail-clone-yt/src/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../gmail-clone-yt/src/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gmail-clone-yt/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gmail-clone-yt/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/HeaderOption.css" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/HeaderOption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/HeaderOption.js" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/HeaderOption.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/Sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linkedin-clone/src/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../linkedin-clone/src/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/components/ChatFeed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/components/ChatFeed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/components/LoginForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/components/LoginForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/components/MessageForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/components/MessageForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/components/MyMessage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/components/MyMessage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/components/TheirMessage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/components/TheirMessage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microsoft-teams-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../microsoft-teams-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1x7R6ten6qALoGd7ViLIc5rHKn5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e84fed-9743-4513-9ad7-c91bf1166b69" name="Default Changelist" comment="" />
+      <created>1629703967222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629703967222</updated>
+      <workItem from="1629703968605" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1629704004322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629704004322" />
+  </component>
+</project>
