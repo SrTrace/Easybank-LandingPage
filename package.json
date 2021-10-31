@@ -1,5 +1,5 @@
 {
-  "homepage": "http://SrTrace.github.io/Easybank-LandingPage",
+  "homepage": "https://srtrace.github.io/EasybankLandingPage/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
